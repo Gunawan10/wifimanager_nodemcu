@@ -86,3 +86,9 @@ Documentation
  * Needs to be connected to the network, the lamp will turn on and turn off for ``1 second`` continuously
  * Is connecting the network, the lamp will turn on and off for ``0.25 seconds`` continuously
  * The system is connected to the network, the light will turn on
+ 
+Thanks to
+---------
+
+Mr. Sachin Soni (owner of techiesms), allows me to read and write SSID and password in EEPROM.
+[https://github.com/techiesms/WiFi-Credentials-Saving---Connecting.git](https://github.com/techiesms/WiFi-Credentials-Saving---Connecting.git)
