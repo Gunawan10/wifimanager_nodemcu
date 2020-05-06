@@ -26,7 +26,6 @@ Required libraries
 ------------------
 
 ESP8266 (Latest version)
-~~~~~~~~~~~~~~~~~~~~~~~~
 
 * In the Arduino IDE, navigate to *File > Preferences*
 * Enter ``http://arduino.esp8266.com/stable/package_esp8266com_index.json`` into the “Additional Boards Manager URLs” field as shown in the figure below. Then, click the “OK” button
@@ -34,13 +33,11 @@ ESP8266 (Latest version)
 * Search for **ESP8266** and press install button for the **ESP8266 by ESP8266 Community**
 
 ESP8266Ping (Latest version)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Download library `here <https://github.com/dancol90/ESP8266Ping>`__ . 
 * In the Arduino IDE, navigate to *Sketch > Include Library > Add .Zip Library*. You will be prompted to select the library you would like to add. Navigate to the .zip file's location and open it.
 
 ArduinoJson (Version 5.11.2)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In the Arduino IDE, navigate to *Sketch > Include Library > Manage Libraries*. In order to install ArduinoJson, search for "ArduinoJson", scroll the list to find it and click on it.
 
