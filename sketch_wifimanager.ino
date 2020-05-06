@@ -129,8 +129,12 @@ boolean ConnectWifiFromEEPROM(){
   Serial.println(epass);
 
   //try to connect
-  boolean tryConnect = connectWifi(essid, epass);
-  if (tryConnect == false){
+  if(essid != ""){
+    boolean tryConnect = connectWifi(essid, epass);
+    if (tryConnect == false){
+      return false;
+    }
+  }else{
     return false;
   }
 
