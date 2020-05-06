@@ -92,3 +92,6 @@ Thanks to
 
 Mr. Sachin Soni (owner of techiesms), allows me to read and write SSID and password in EEPROM.
 [https://github.com/techiesms/WiFi-Credentials-Saving---Connecting.git](https://github.com/techiesms/WiFi-Credentials-Saving---Connecting.git)
+
+apicquot, convert IPAddress variables to string
+[https://forum.arduino.cc/index.php?topic=228884.msg2670971#msg2670971](https://forum.arduino.cc/index.php?topic=228884.msg2670971#msg2670971)
